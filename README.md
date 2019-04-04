@@ -12,3 +12,10 @@ fdfdfsd
 fsdfgdsfgds
 dfsdfsdfdsfdfsdfds
 fdsfdsfdsf
+
+## Licencja
+
+dfsdfds
+
+fdsfs
+fdsf
